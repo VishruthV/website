@@ -1,0 +1,23 @@
+# This is a CODEOWNERS file.
+# For more information about CODEOWNERS, see:
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owner for everything in the repository.
+* @VishruthV
+
+# Specific directory or file owners.
+# Assign multiple owners by separating user handles with a space.
+
+# Frontend code
+/frontend/ @VishruthV
+
+# Backend code
+/backend/ @VishruthV
+
+# Documentation
+/docs/ @VishruthV
+
+# GitHub Actions workflows
+.github/workflows/ @VishruthV
+
+# Add additional rules below as needed.
